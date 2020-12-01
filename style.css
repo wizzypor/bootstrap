@@ -1,0 +1,24 @@
+.borderb {
+	border: 1px solid black;
+}
+.purple {
+	background-color: purple
+}
+.red {
+	background-color: red;
+}
+.darkred {
+	background-color: darkred;
+}
+.darkorange {
+	background-color: darkorange;
+}
+.h500 {
+	height: 500px;
+}
+.h250 {
+	height: 250px;
+}
+.h33 {
+	height: 166.6px
+}
